@@ -1,0 +1,42 @@
+.radi{
+
+    border: 4px solid rgb(118, 45, 118);
+    border-radius: 45px;
+
+}
+.box{
+    border: 3px solid rebeccapurple;
+    padding: 10px;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    bottom:0%;
+    margin: 0;
+    text-align: center;
+}
+.img-center{
+    display: block;
+    margin-right: 53%;
+    margin-left: 47%;
+    margin-top: -38px;
+}
+.container{
+    background-color: rgb(244, 187, 95);
+    width: 200px;
+    height: 130px;
+    border-radius: 45px;
+}
+.bridge{
+    text-decoration: none;
+    color: black;
+    border-radius: 22px;
+    margin-right: 10px;
+    background-color: rgb(91, 246, 77);
+    border: 2px solid rgb(16, 4, 16);
+    padding: 4px;
+}
+img {
+    width: 60%; 
+    display: block;
+    margin: auto;
+}
